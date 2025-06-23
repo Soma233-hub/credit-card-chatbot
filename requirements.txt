@@ -1,0 +1,10 @@
+langchain>=0.0.267
+langchain_community
+openai>=0.27.8
+chainlit>=0.7.0
+sqlalchemy>=2.0.20
+python-dotenv>=1.0.0
+pandas>=2.0.3
+numpy>=1.25.2
+matplotlib>=3.7.2
+setuptools>=68.0.0
